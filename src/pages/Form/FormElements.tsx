@@ -115,7 +115,7 @@ const FormElements = () => {
               <h3 className="font-medium text-black dark:text-white">
                 File upload
               </h3>
-            </div>
+            </div> 
             <div className="flex flex-col gap-5.5 p-6.5">
               <div>
                 <label className="mb-3 block text-black dark:text-white">
